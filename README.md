@@ -13,7 +13,7 @@ here is some of my courses:
 
 
 # Biomedical:
-1.Sous value hospital. 
+1.South valley hospital. 
 2.Sales
 3.Artifical Heart at HULT prize.
 
