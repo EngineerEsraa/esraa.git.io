@@ -1,13 +1,13 @@
 ## Welcome to Esraa Khaled Website
 I am Biomedical Engineer , at faculty of engineering cairo university.
 
-# <center>Esraa **Khaled Ahmed**
+# <center>EsraaKhaled Ahmed
  :email: engesraa1998@gmail.com | :octocat:https://github.com/
  
  |:telephone_receiver:01003191020 |:house: Qena, ElMukhabrat street
 
 
-## **<span style ="color:blue">Education**          :mortar_board:
+## <span style ="color:blue">**Education**:mortar_board:
 - *__Cairo University__, Faculty of Engineering, Biomedical Engineering department*
 
 
@@ -66,7 +66,7 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
 
 - worked as participant in K vector's Ardunio workshop
 - worked as participant in ESL's c programming workshop
-## **<span style ="color:blue">Interests**
+## <span style ="color:blue">**Interests**
 - Research in biomechanics.
 
 - E_learning.
