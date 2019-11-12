@@ -7,7 +7,7 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
  telephone:01003191020 |Address: Qena, ElMukhabrat street
 
 
-## <span style ="color:blue">**Education**:mortar_board:
+## <span style ="color:blue">**Education**
 - *__Cairo University__, Faculty of Engineering, Biomedical Engineering department*
 
 
