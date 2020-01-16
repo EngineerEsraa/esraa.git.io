@@ -11,13 +11,13 @@ I am Biomedical Engineer , at faculty of engineering cairo universit. since my i
 - *__Cairo University__, Faculty of Engineering, Biomedical Engineering department*
 
 
-   - *2nd year student in the BME department, July 2019*
+   - *3rd year student in the BME department, July 2020*
 
 
 ## <span style ="color:blue">**Work Experience**</span>
 
 
-- Trianing in South Valley Universtiy hospital specially in ** ventilator , incubator and Syring Pump  maintenance .
+- Trianing in South Valley Universtiy hospital specially in **ventilator , incubator and Syring Pump  maintenance** .
 
 
 - Training course in Medical Equipment - Level 1 *MPCS Medical Planning and Clinical Solutions company*
@@ -62,6 +62,16 @@ I am Biomedical Engineer , at faculty of engineering cairo universit. since my i
         - project helps deaf people to live a normal life
     - participated in a software project: 
         - file compression using huffman algorithm
+ - In 2019 _ 2020
+   -participated in alot of projects such as:
+      - device help a disabled people communicate or deal with computer using **Speech Recognition and Motion of Head**
+      - incubator protype with special design 
+      - ECG and EOG simulator 
+      - Syring Pump Prototype and etc..
+ 
+   -Participated in a Machine Learning Projects such as :
+       - Prediction of Diabetes *Readmission* .
+   - Participated in **a Surgery Clinic WebSite** .
 
 ## <span style ="color:blue"> **Activities**
 
