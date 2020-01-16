@@ -1,5 +1,5 @@
 ## Welcome to Esraa Khaled Website
-I am Biomedical Engineer , at faculty of engineering cairo universit. since my inception , I have dreamed today that I joined to Biomedical engineering department so that I can study what I love and what make me able to design a device that help me in helping patients and disabled to live thier lives without pains. Now I achieved this dream and still seek to design this device that help peaple . I try to cope with the developement of technology to harness it in favour of patients and disabled people . 
+ I am a Biomedical Engineer , at faculty of engineering Cairo University.Since my inception , I have dreamed today that I joined to Biomedical engineering department so that I can study what I love and what make me able to design a device that help me in helping patients and disabled to live their lives without pains. Now I achieved this dream and still seek to design this device that help people . I try to cope with the development of technology to harness it in favour of patients and disabled people.  
 
 # <center>EsraaKhaled Ahmed
  e_mail: engesraa1998@gmail.com |https://github.com/
