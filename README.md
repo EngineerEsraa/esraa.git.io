@@ -69,8 +69,8 @@ I am Biomedical Engineer , at faculty of engineering cairo universit. since my i
       - ECG and EOG simulator 
       - Syring Pump Prototype and etc..
  
-   -Participated in a Machine Learning Projects such as :
-       - Prediction of Diabetes *Readmission* .
+   -Participated in a Machine Learning Projects such as:
+      - Prediction of Diabetes *Readmission* .
    - Participated in **a Surgery Clinic WebSite** .
 
 ## <span style ="color:blue"> **Activities**
