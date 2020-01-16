@@ -26,7 +26,7 @@ I am Biomedical Engineer , at faculty of engineering cairo universit. since my i
 
 - Participated in a research project for the Mathematics course **MTH124** in the 2nd Undergraduate Engineering 
 
-     Mathematics Research Forum held by the **Technical Center For Career Development**  at Cairo University  and **TAKE A SECOND PLACE **.
+     Mathematics Research Forum held by the **Technical Center For Career Development**  at Cairo University  and **TAKE A SECOND PLACE** .
 
 
 ## <span style ="color:blue">**Skills**</span>
