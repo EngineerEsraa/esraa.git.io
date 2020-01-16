@@ -1,5 +1,5 @@
 ## Welcome to Esraa Khaled Website
-I am Biomedical Engineer , at faculty of engineering cairo university.
+I am Biomedical Engineer , at faculty of engineering cairo universit. since my inception , I have dreamed today that I joined to Biomedical engineering department so that I can study what I love and what make me able to design a device that help me in helping patients and disabled to live thier lives without pains. Now I achieved this dream and still seek to design this device that help peaple . I try to cope with the developement of technology to harness it in favour of patients and disabled people . 
 
 # <center>EsraaKhaled Ahmed
  e_mail: engesraa1998@gmail.com |https://github.com/
@@ -17,7 +17,7 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
 ## <span style ="color:blue">**Work Experience**</span>
 
 
-- Trianing in hospital.
+- Trianing in South Valley Universtiy hospital specially in ** ventilator , incubator and Syring Pump  maintenance .
 
 
 - Training course in Medical Equipment - Level 1 *MPCS Medical Planning and Clinical Solutions company*
@@ -26,7 +26,7 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
 
 - Participated in a research project for the Mathematics course **MTH124** in the 2nd Undergraduate Engineering 
 
-     Mathematics Research Forum held by the **Technical Center For Career Development**  at Cairo University .
+     Mathematics Research Forum held by the **Technical Center For Career Development**  at Cairo University  and **TAKE A SECOND PLACE **.
 
 
 ## <span style ="color:blue">**Skills**</span>
@@ -34,7 +34,8 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
   **Programming**
 
 
-
+- R language 
+- MYSQL and dataBase
 - good background in C++
 - good background about data structures
 - good background in Ardunio
@@ -67,6 +68,10 @@ I am Biomedical Engineer , at faculty of engineering cairo university.
 - worked as participant in K vector's Ardunio workshop
 - worked as participant in ESL's c programming workshop
 ## <span style ="color:blue">**Interests**
+ 
+ 
+- Machine Learning 
+
 - Research in biomechanics.
 
 - E_learning.
