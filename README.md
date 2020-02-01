@@ -65,7 +65,7 @@
  - In 2019 _ 2020
    -participated in alot of projects such as:
       - device help a disabled people communicate or deal with computer using **Speech Recognition and Motion of Head**
-      - incubator protype with special design 
+      - incubator prototype with special design 
       - ECG and EOG simulator 
       - Syring Pump Prototype and etc..
  
